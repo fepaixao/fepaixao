@@ -1,7 +1,12 @@
 # 👋 Olá, eu sou o Felipe Paixão  
 🎯 Em transição de carreira para **Quality Assurance (QA)**  
 💻 Estudando **testes manuais e automatizados**  
-🚀 Focado em **Cypress | Selenium | Appium | Postman | Jira | RestAssured**
+🚀 - Focado em <span translate="no" class="notranslate">Cypress</span> |
+  <span translate="no" class="notranslate">Selenium</span> |
+  <span translate="no" class="notranslate">Appium</span> |
+  <span translate="no" class="notranslate">Postman</span> |
+  <span translate="no" class="notranslate">Jira</span> |
+  <span translate="no" class="notranslate">REST Assured</span>
 
 ---
 
